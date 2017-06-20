@@ -605,6 +605,7 @@ namespace BrowserEfficiencyTest
             AddScenario(new EspnHomepage());
             AddScenario(new LinkedInSatya());
             AddScenario(new TwitterPublic());
+            AddScenario(new TwitterFeed());
             AddScenario(new TumblrTrending());
             AddScenario(new InstagramNYPL());
             AddScenario(new PinterestExplore());
